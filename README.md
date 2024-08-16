@@ -1,12 +1,16 @@
 # Cell-APP
 
-## **Login Screen**
-![Login Photo](https://github.com/user-attachments/assets/ea740897-f783-4965-b9a1-45265de51201)
-
-
-## **Sign Up Screen**
-![Sign up Photo](https://github.com/user-attachments/assets/77cc8fd8-70f7-4570-8696-6f8993067fbb)
+## **Main Screen**
+![Main Screen](https://github.com/user-attachments/assets/27a45edf-2b60-4902-9d91-16054ef24a4b)
 
 
 ## **Home Screen**
-![Home Photo](https://github.com/user-attachments/assets/8a77f533-58d3-4901-bb89-75aa3f1bf860)
+![dash](https://github.com/user-attachments/assets/7f53cc3c-de6f-4095-a8a6-3762259b59fe)
+
+
+## **Meeting Setup Screen**
+![camera setup](https://github.com/user-attachments/assets/2f63103c-c765-4b02-9456-20401728ac1c)
+
+## **Meeting Screen**
+
+![meetingScreen](https://github.com/user-attachments/assets/0a290448-4f49-4fae-aa7a-53caa025ad4f)
