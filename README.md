@@ -9,7 +9,7 @@
 
 
 ## **Meeting Setup Screen**
-![camera setup](https://github.com/user-attachments/assets/2f63103c-c765-4b02-9456-20401728ac1c)
+![setup screen](https://github.com/user-attachments/assets/499bd9f6-9767-45cd-aaed-518c3c0c7c24)
 
 ## **Meeting Screen**
 
